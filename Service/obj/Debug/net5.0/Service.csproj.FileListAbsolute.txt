@@ -1,0 +1,15 @@
+C:\DEV\mdc.mticket\Service\bin\Debug\net5.0\Service.deps.json
+C:\DEV\mdc.mticket\Service\bin\Debug\net5.0\Service.dll
+C:\DEV\mdc.mticket\Service\bin\Debug\net5.0\ref\Service.dll
+C:\DEV\mdc.mticket\Service\bin\Debug\net5.0\Service.pdb
+C:\DEV\mdc.mticket\Service\bin\Debug\net5.0\Domain.dll
+C:\DEV\mdc.mticket\Service\bin\Debug\net5.0\Domain.pdb
+C:\DEV\mdc.mticket\Service\obj\Debug\net5.0\Service.csprojAssemblyReference.cache
+C:\DEV\mdc.mticket\Service\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\mdc.mticket\Service\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
+C:\DEV\mdc.mticket\Service\obj\Debug\net5.0\Service.AssemblyInfo.cs
+C:\DEV\mdc.mticket\Service\obj\Debug\net5.0\Service.csproj.CoreCompileInputs.cache
+C:\DEV\mdc.mticket\Service\obj\Debug\net5.0\Service.csproj.CopyComplete
+C:\DEV\mdc.mticket\Service\obj\Debug\net5.0\Service.dll
+C:\DEV\mdc.mticket\Service\obj\Debug\net5.0\ref\Service.dll
+C:\DEV\mdc.mticket\Service\obj\Debug\net5.0\Service.pdb

@@ -1,0 +1,36 @@
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\Service\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\Service\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\DEV\mdc.mticket\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\DEV\mdc.mticket\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\DEV\mdc.mticket\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\DEV\mdc.mticket\Service\bin\Debug\netcoreapp3.1\Domain.dll
+C:\DEV\mdc.mticket\Service\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\DEV\mdc.mticket\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\DEV\mdc.mticket\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\DEV\mdc.mticket\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\DEV\mdc.mticket\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\DEV\mdc.mticket\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\DEV\mdc.mticket\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\DEV\mdc.mticket\Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\Service\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\Service\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete

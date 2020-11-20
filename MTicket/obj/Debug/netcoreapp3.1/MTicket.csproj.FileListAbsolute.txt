@@ -1,0 +1,206 @@
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\MTicket.exe
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\MTicket.deps.json
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\MTicket.runtimeconfig.json
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\MTicket.runtimeconfig.dev.json
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\MTicket.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\MTicket.pdb
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\MTicket_MarkupCompile.cache
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\MTicket_MarkupCompile.lref
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\MTicket.g.resources
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\MTicket.AssemblyInfoInputs.cache
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\MTicket.AssemblyInfo.cs
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\MTicket.csproj.CoreCompileInputs.cache
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\MTicket.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\MTicket.pdb
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\MTicket.genruntimeconfig.cache
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\MTicket.csprojAssemblyReference.cache
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\MTicket.csproj.CopyComplete
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\Views\MainWindow.g.cs
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\Views\MainWindow.baml
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\Views\ValidatedTicket.g.cs
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\Views\ValidatedTicket.baml
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\Views\UsedTicket.g.cs
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\Views\UsedTicket.baml
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\MTicket.exe
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\MTicket.deps.json
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\MTicket.runtimeconfig.json
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\MTicket.runtimeconfig.dev.json
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\MTicket.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\MTicket.pdb
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Data.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Domain.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Service.dll
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Data.pdb
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\DEV\mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Service.pdb
+C:\DEV\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\MTicket.csprojAssemblyReference.cache
+C:\DEV\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\Views\MainWindow.g.cs
+C:\DEV\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\Views\UsedTicket.g.cs
+C:\DEV\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\Views\ValidatedTicket.g.cs
+C:\DEV\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\App.g.cs
+C:\DEV\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\MTicket_MarkupCompile.cache
+C:\DEV\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\MTicket_MarkupCompile.lref
+C:\DEV\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\Views\MainWindow.baml
+C:\DEV\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\Views\UsedTicket.baml
+C:\DEV\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\Views\ValidatedTicket.baml
+C:\DEV\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\MTicket.g.resources
+C:\DEV\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\MTicket.AssemblyInfoInputs.cache
+C:\DEV\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\MTicket.AssemblyInfo.cs
+C:\DEV\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\MTicket.csproj.CoreCompileInputs.cache
+C:\DEV\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\MTicket.csproj.CopyComplete
+C:\DEV\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\MTicket.dll
+C:\DEV\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\MTicket.pdb
+C:\DEV\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\MTicket.genruntimeconfig.cache
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\MTicket.exe
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\MTicket.deps.json
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\MTicket.runtimeconfig.json
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\MTicket.runtimeconfig.dev.json
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\MTicket.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\MTicket.pdb
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\MTicket.csprojAssemblyReference.cache
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\Views\MainWindow.g.cs
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\Views\UsedTicket.g.cs
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\Views\ValidatedTicket.g.cs
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\MTicket_MarkupCompile.cache
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\MTicket_MarkupCompile.lref
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\Views\MainWindow.baml
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\Views\UsedTicket.baml
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\Views\ValidatedTicket.baml
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\MTicket.g.resources
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\MTicket.AssemblyInfoInputs.cache
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\MTicket.AssemblyInfo.cs
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\MTicket.csproj.CoreCompileInputs.cache
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\MTicket.csproj.CopyComplete
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\MTicket.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\MTicket.pdb
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\MTicket.genruntimeconfig.cache
+C:\DEV\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\Views\InvalidTicket.g.cs
+C:\DEV\mdc.mticket\MTicket\obj\Debug\netcoreapp3.1\Views\InvalidTicket.baml

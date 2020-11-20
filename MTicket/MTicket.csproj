@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Views\Banner_AzulEscuro.png" />
+    <None Remove="Views\close.png" />
+    <None Remove="Views\gigQrCode.gif" />
+    <None Remove="Views\invalid.jpg" />
+    <None Remove="Views\like.png" />
+    <None Remove="Views\line.jpg" />
+    <None Remove="Views\mdc.ico" />
+    <None Remove="Views\ScanQrCode.png" />
+    <None Remove="Views\x-mark.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Data\Data.csproj" />
+    <ProjectReference Include="..\Domain\Domain.csproj" />
+    <ProjectReference Include="..\Service\Service.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Views\Banner_AzulEscuro.png" />
+    <Resource Include="Views\close.png" />
+    <Resource Include="Views\gigQrCode.gif" />
+    <Resource Include="Views\invalid.jpg" />
+    <Resource Include="Views\like.png" />
+    <Resource Include="Views\line.jpg" />
+    <Resource Include="Views\mdc.ico" />
+    <Resource Include="Views\ScanQrCode.png" />
+    <Resource Include="Views\x-mark.png" />
+  </ItemGroup>
+
+</Project>

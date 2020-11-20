@@ -1,0 +1,12 @@
+C:\DEV\mdc.mticket\Data\bin\Release\net5.0\Data.deps.json
+C:\DEV\mdc.mticket\Data\bin\Release\net5.0\Data.dll
+C:\DEV\mdc.mticket\Data\bin\Release\net5.0\ref\Data.dll
+C:\DEV\mdc.mticket\Data\bin\Release\net5.0\Data.pdb
+C:\DEV\mdc.mticket\Data\obj\Release\net5.0\Data.csprojAssemblyReference.cache
+C:\DEV\mdc.mticket\Data\obj\Release\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\mdc.mticket\Data\obj\Release\net5.0\Data.AssemblyInfoInputs.cache
+C:\DEV\mdc.mticket\Data\obj\Release\net5.0\Data.AssemblyInfo.cs
+C:\DEV\mdc.mticket\Data\obj\Release\net5.0\Data.csproj.CoreCompileInputs.cache
+C:\DEV\mdc.mticket\Data\obj\Release\net5.0\Data.dll
+C:\DEV\mdc.mticket\Data\obj\Release\net5.0\ref\Data.dll
+C:\DEV\mdc.mticket\Data\obj\Release\net5.0\Data.pdb

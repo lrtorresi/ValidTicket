@@ -1,0 +1,27 @@
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\mdc.mticket\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\DEV\mdc.mticket\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\DEV\mdc.mticket\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\DEV\mdc.mticket\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\DEV\mdc.mticket\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\DEV\mdc.mticket\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\DEV\mdc.mticket\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\DEV\mdc.mticket\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\DEV\mdc.mticket\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\DEV\mdc.mticket\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\ltorresi\Documents\RODRIGO TORRESI\DOCS\RODRIGO\Cursos - DEV\Estudos\BKP - mdc.mticket\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

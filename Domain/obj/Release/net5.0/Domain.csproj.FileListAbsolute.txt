@@ -1,0 +1,12 @@
+C:\DEV\mdc.mticket\Domain\bin\Release\net5.0\Domain.deps.json
+C:\DEV\mdc.mticket\Domain\bin\Release\net5.0\Domain.dll
+C:\DEV\mdc.mticket\Domain\bin\Release\net5.0\ref\Domain.dll
+C:\DEV\mdc.mticket\Domain\bin\Release\net5.0\Domain.pdb
+C:\DEV\mdc.mticket\Domain\obj\Release\net5.0\Domain.csprojAssemblyReference.cache
+C:\DEV\mdc.mticket\Domain\obj\Release\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\mdc.mticket\Domain\obj\Release\net5.0\Domain.AssemblyInfoInputs.cache
+C:\DEV\mdc.mticket\Domain\obj\Release\net5.0\Domain.AssemblyInfo.cs
+C:\DEV\mdc.mticket\Domain\obj\Release\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\DEV\mdc.mticket\Domain\obj\Release\net5.0\Domain.dll
+C:\DEV\mdc.mticket\Domain\obj\Release\net5.0\ref\Domain.dll
+C:\DEV\mdc.mticket\Domain\obj\Release\net5.0\Domain.pdb

@@ -1,0 +1,44 @@
+﻿<Window x:Class="MTicket.Views.UsedTicket"
+         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MTicket"
+        mc:Ignorable="d"
+        Title="MDC MTicket - Ticket Utilizado" Height="797" Width="1280" WindowStartupLocation="CenterScreen" WindowState="Maximized" Icon="/Views/mdc.ico" ShowInTaskbar="False">
+    <Window.Background>
+        <ImageBrush ImageSource="/Views/Banner_AzulEscuro.png"/>
+    </Window.Background>
+    <Canvas Width="0" Height="0" Margin="10,10,0,0">
+        <Canvas Canvas.Left="38" Canvas.Top="12"/>
+        <Label Content="12222222222" Canvas.Left="452" Canvas.Top="481"/>
+        <Frame x:Name="lblCreateAt_" Content="" Height="717" Canvas.Left="-561" Canvas.Top="-365" Width="1120" Background="{DynamicResource {x:Static SystemColors.InactiveCaptionBrushKey}}"/>
+        <Rectangle Height="40" Canvas.Left="-561"  Canvas.Top="312" Width="1120" Fill="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}"/>
+        <Label x:Name="lblDatetime" Content="01/01/1999 10:00" Canvas.Left="422" Canvas.Top="319" Width="113" FontWeight="Bold" Foreground="White" RenderTransformOrigin="1.015,0.688"/>
+        <Label x:Name="lblStore" Content="Empresa" Canvas.Left="-539" Canvas.Top="319" Width="219" FontWeight="Bold" Foreground="White" RenderTransformOrigin="1.015,0.688"/>
+        <Label x:Name="lblMachineName" Content="Machine Name" Canvas.Left="-77" Canvas.Top="319" Width="219" FontWeight="Bold" Foreground="White" RenderTransformOrigin="1.015,0.688"/>
+        <Rectangle Height="677" Canvas.Left="-561" Stroke="Black" Canvas.Top="-365" Width="714" Fill="Red"/>
+        <Label x:Name="lblResult" Content="O Ticket já foi utilizado.&#xA;" Margin="122,238,0,0" Width="212" Height="60" FontSize="18" FontWeight="Bold" Canvas.Left="-430" Canvas.Top="-256"/>
+        <Image Height="100" Margin="182,128,0,0" Width="100" Source="/Views/like.png" RenderTransformOrigin="0.5,0.5" Canvas.Left="-433" Canvas.Top="-244">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="180.027"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Label Content="Informações do Ticket:&#xA;&#xA;:" Margin="495,10,0,0" Width="239" Height="34" FontSize="18" FontWeight="Bold" Canvas.Left="-240" Canvas.Top="-338"/>
+        <Label x:Name="lblCreateAt" Content="Data da Compra: " Canvas.Left="206" Canvas.Top="-260" FontSize="16" Width="284"/>
+        <Label x:Name="lblItemId" Content="Código do Produto: " Canvas.Left="206" Canvas.Top="-215" FontSize="16" Width="284"/>
+        <Label x:Name="lblItem" Content="Nome do Produto: " Canvas.Left="206" Canvas.Top="-160" FontSize="16" Width="288"/>
+        <Label x:Name="lblConsumoAt" Content="Data de Utilização: " Canvas.Left="206" Canvas.Top="-105" FontSize="16" Width="300"/>
+        <Image Height="15" Canvas.Left="158" Canvas.Top="-298" Width="401" Source="/Views/line.jpg"/>
+        <Image Height="8" Canvas.Left="212" Canvas.Top="-232" Width="278" Source="/Views/line.jpg"/>
+        <Image Height="8" Canvas.Left="212" Canvas.Top="-186" Width="278" Source="/Views/line.jpg"/>
+        <Image Height="8" Canvas.Left="212" Canvas.Top="-130" Width="278" Source="/Views/line.jpg"/>
+        <Image Height="8" Canvas.Left="212" Canvas.Top="-75" Width="278" Source="/Views/line.jpg"/>
+        <Button x:Name="btnClose" Content="OK" Canvas.Left="329" Canvas.Top="42" Height="63" Width="108" Click="btnClose_Click"/>
+    </Canvas>
+</Window>
